@@ -158,10 +158,11 @@ a{
     float: left;
     width: 48%;
 }
-  .intro_text{
-	  float:right;
-	  margin:3rem 0;
- }
+  .intro_text {
+    float: right;
+    margin: 3rem 0;
+    width: 48%;
+}
  .intro_text h1{
 	  font-size:5rem;
  }
