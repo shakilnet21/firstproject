@@ -154,9 +154,10 @@ a{
 	  background-color:#fff;
 	  padding-top:8rem;
   }
-  .intro_img{
-	float:left;  
-  }
+  .intro_img {
+    float: left;
+    width: 48%;
+}
   .intro_text{
 	  float:right;
 	  margin:3rem 0;
